@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://tenor.com/view/kaoruko-waguri-waguri-kaoruko-the-fragrant-flower-the-fragrant-flower-blooms-with-dignity-kaoru-hana-wa-rin-to-saku-gif-17138251482221080070" />
+  <img src="https://tenor.com/uAbxkkqPeZK.gif" alt="Kaoruko GIF" width="400" />
 </p>
 
 ---
