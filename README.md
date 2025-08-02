@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/7ddM67UZbgYAAAAC/kaoruko-waguri-waguri-kaoruko.gif" alt="Kaoruko GIF" width="400" />
+  <img src="https://media1.tenor.com/m/7ddM67UZbgYAAAAC/kaoruko-waguri-waguri-kaoruko.gif" alt="Kaoruko GIF" width="100%" />
 </p>
 
 ---
