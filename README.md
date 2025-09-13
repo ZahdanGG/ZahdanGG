@@ -1,6 +1,6 @@
 <!-- Anime Banner -->
 <p align="center">
-  <img src="[https://i.waifu.pics/kJ7rhzf.png" width="100%" alt="Anime Banner](https://github.com/ZahdanGG/ZahdanGG/blob/main/WaguriBanner.png)"/>
+  <img src="(https://github.com/ZahdanGG/ZahdanGG/blob/main/WaguriBanner.png)"/>
 </p>
 
 <!-- Greeting -->
