@@ -1,6 +1,6 @@
 <!-- Anime Banner -->
 <p align="center">
-  <img src="https://raw.github.com/ZahdanGG/ZahdanGG/blob/main/WaguriBanner.png"/>
+  <img src="https://github.com/ZahdanGG/ZahdanGG/blob/f1e615ebe7916e18dfe887dd6af63b981bdfa8d8/WaguriBanner.png"/>
 </p>
 
 <!-- Greeting -->
