@@ -1,16 +1,16 @@
 <!-- Anime Banner -->
 <p align="center">
-  <img src="https://github.com/ZahdanGG/ZahdanGG/blob/f1e615ebe7916e18dfe887dd6af63b981bdfa8d8/WaguriBanner.png" width="600"/>
+  <img src="https://github.com/ZahdanGG/ZahdanGG/blob/f1e615ebe7916e18dfe887dd6af63b981bdfa8d8/WaguriBanner.png" width="100%" height="250"/>
 </p>
-
 
 <!-- Greeting -->
 <h1 align="center">✨ Hello Everyone 👋, I'm ZahdanGG ✨</h1>
 
 <!-- Anime Counter -->
 <p align="center">
-  <img src="https://64.media.tumblr.com/f9725a10216e93c26599a4a34101e029/9016b0a3344bf789-fd/s500x750/e4d67ddc6777e7733a91699376a2b56f53ad6f5a.gifv" />
+  <img src="https://64.media.tumblr.com/f9725a10216e93c26599a4a34101e029/9016b0a3344bf789-fd/s500x750/e4d67ddc6777e7733a91699376a2b56f53ad6f5a.gifv" width="100%" height="250"/>
 </p>
+
 
 <p align="center">🌸 Hey Zahdan Here! 🌸</p>
 
