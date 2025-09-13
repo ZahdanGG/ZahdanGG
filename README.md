@@ -17,12 +17,11 @@
 ---
 
 ## 🍀 About Me
-- 🔭 Currently working on: **Next.js / DevOps / Open Source**
-- 🌱 Learning: **React, Cloud, and anything fun**
-- 💞 Collaborating on: **Open Source Projects**
-- 💬 Ask me about: **JavaScript, Node.js, React**
-- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
-- ⚡ Fun fact: *I love keyboard shortcuts* ⚡
+- 🔭 Real Name: **Anjari**
+- 🌱 Learning: **JS,CSS,HTML,Python,C++**
+- 💬 Ask me about: **that only I know 😂**
+- 📫 Reach me at:
+- ⚡ Fun fact: *I'm pro at playing games* ⚡
 
 ---
 
@@ -42,8 +41,8 @@
 ---
 
 ## 🎬 Anime Quote
-> *"Power comes in response to a need, not a desire. You have to create that need."*  
-> — Goku, *Dragon Ball Z*
+> *"If you don't take risks, you can't create a future."*  
+> — Luffy, *One Piece*
 
 ---
 
