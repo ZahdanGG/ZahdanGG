@@ -8,7 +8,7 @@
 
 <!-- Anime Counter -->
 <p align="center">
-  <img src="https://count.getloli.com/get/@ZahdanGG?theme=moebooru" alt="profile counter" />
+  <img src="https://64.media.tumblr.com/f9725a10216e93c26599a4a34101e029/9016b0a3344bf789-fd/s500x750/e4d67ddc6777e7733a91699376a2b56f53ad6f5a.gifv" />
 </p>
 
 <p align="center">🌸 Hey Zahdan Here! 🌸</p>
