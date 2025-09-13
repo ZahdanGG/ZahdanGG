@@ -1,77 +1,54 @@
-<!-- Banner -->
+<!-- Banner Anime -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/7ddM67UZbgYAAAAC/kaoruko-waguri-waguri-kaoruko.gif" alt="Kaoruko GIF" width="400" height="200" />
+  <img src="https://i.waifu.pics/zjK0TGR.gif" width="100%" alt="Anime Banner"/>
+</p>
+
+<!-- Greeting -->
+<h1 align="center">✨ Kon'nichiwa~! I'm ZahdanGG ✨</h1>
+<p align="center">
+  <img src="https://i.waifu.pics/Ep7DKyL.gif" width="250" alt="Anime Girl"/>
 </p>
 
 ---
 
-### 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **YourProjectName**
-- 🌱 I’m currently learning **Next.js / DevOps / anything**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, Node.js, React, or anything tech**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **I love keyboard shortcuts ⚡**
-
----
-
-### 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+## 🌸 About Me
+- 🔭 Currently grinding on: **Next.js | DevOps | Open Source**
+- 🌱 Learning: **React, Cloud, and anything cool**
+- 💞 Looking to collaborate on: **Open Source Projects**
+- 💬 Ask me about: **JavaScript, Node.js, React**
+- 📫 Reach me at: [your.email@example.com](mailto:your.email@example.com)
+- ⚡ Fun fact: *I love keyboard shortcuts* ⚡
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" />
-</p>
+---
 
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YourUsername&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZahdanGG&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZahdanGG&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
-### 🚀 My Projects
-
-Here are some of my favorite or active projects:
-
-- [📦 Project1](https://github.com/YourUsername/Project1) — short description
-- [📱 Project2](https://github.com/YourUsername/Project2) — short description
-- [🛠️ Project3](https://github.com/YourUsername/Project3) — short description
+## 💡 Anime Quote
+> *"A lesson without pain is meaningless. That’s because you can’t gain something without sacrificing something in return."*  
+> — Edward Elric, *Fullmetal Alchemist*
 
 ---
 
-### 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourlinkedin)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yourusername)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square)](https://yourportfolio.com)
-
----
-
-_Thank you for visiting my GitHub profile! 😊_
-
-
-<!--
-**ZahdanGG/ZahdanGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Footer -->
+<p align="center">
+  <img src="https://i.waifu.pics/jRjY9uX.gif" width="200" alt="Thanks"/>
+  <br/>
+  <i>Thanks for visiting! Let's build cool stuff together 🌸</i>
+</p>
