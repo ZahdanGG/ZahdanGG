@@ -24,7 +24,7 @@
   <img
     src="https://capsule-render.vercel.app/api?type=rect&color=0:050609,20:080f1f,55:287bff,80:101c36,100:050609&height=120&section=header&text=01%20%2F%20THE%20DEVELOPER&fontColor=f5f7fa&fontSize=28&fontAlignY=42&desc=A%20LITTLE%20CONTEXT&descColor=98a4b8&descAlignY=70&animation=fadeIn"
     width="100%"
-    alt="The Developer panel"
+    alt="M Anjari Putra L"
   />
 </p>
 
