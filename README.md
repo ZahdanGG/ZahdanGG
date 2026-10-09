@@ -1,169 +1,171 @@
-
 <!-- ========================================= -->
-<!--        ZAHDAN GITHUB PROFILE              -->
-<!--        DARK NEON / LIGHTSABER EDITION     -->
+<!--         ZAHDAN GITHUB PROFILE PREVIEW     -->
+<!--   DARK CINEMATIC × ELECTRIC BLUE NEON     -->
 <!-- ========================================= -->
 
-<!-- MAIN BANNER -->
+<!-- TOP BANNER -->
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/ZahdanGG/ZahdanGG/main/WaguriBanner.png"
-    alt="Zahdan Banner"
+    alt="Zahdan banner"
     width="100%"
   />
 </p>
-
-<!-- NEON DIVIDER -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:5865F2,50:9DE8FF,100:5865F2&height=5"
-    width="100%"
-    alt="Neon divider"
-  />
-</p>
-
-<!-- INTRO PANEL -->
-<table align="center" width="100%">
-<tr>
-<td align="center">
-
-<h1>Z A H D A N</h1>
-
-<strong>HARDWARE · FIRMWARE · ALGORITHMIC TRADING</strong>
-
-<br/><br/>
-
-<code>Developer</code>
-<code>Creative Technologist</code>
-<code>Automation Enthusiast</code>
-
-<br/><br/>
-
-Exploring the intersection of hardware, software,
-automation, and intelligent systems.
-
-<br/><br/>
-
-<a href="https://github.com/ZahdanGG?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=111827&color=5865F2"/>
-</a>
-
-<a href="https://github.com/ZahdanGG">
-  <img src="https://img.shields.io/badge/OPEN_TO_WORK-111827?style=for-the-badge&logoColor=white&labelColor=111827&color=22C55E"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-<!-- PURPLE NEON DIVIDER -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:C4B5FD,100:7C3AED&height=5"
-    width="100%"
-    alt="Purple neon divider"
-  />
-</p>
-
-<!-- ARSENAL PANEL -->
-<table align="center" width="100%">
-<tr>
-<td align="center">
-
-<h2>⚡ ARSENAL</h2>
-
-<sub>TECHNOLOGIES & EXPERTISE</sub>
-
-<br/><br/>
-
-<h3>HARDWARE & EMBEDDED</h3>
-
-<img src="https://img.shields.io/badge/C-101827?style=for-the-badge&logo=c&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/C++-101827?style=for-the-badge&logo=cplusplus&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/ARDUINO-101827?style=for-the-badge&logo=arduino&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/MICROPYTHON-101827?style=for-the-badge&logo=micropython&logoColor=60A5FA"/>
-<img src="https://img.shields.io/badge/ROS-101827?style=for-the-badge&logo=ros&logoColor=60A5FA"/>
-
-<br/><br/>
-
-<h3>TRADING & QUANT</h3>
-
-<img src="https://img.shields.io/badge/PINE_SCRIPT-101827?style=for-the-badge&logo=tradingview&logoColor=FB7185"/>
-<img src="https://img.shields.io/badge/MQL4%2F5-101827?style=for-the-badge&logoColor=FB7185"/>
-<img src="https://img.shields.io/badge/ALGORITHMIC_TRADING-101827?style=for-the-badge&logoColor=FB7185"/>
-<img src="https://img.shields.io/badge/QUANT_ANALYSIS-101827?style=for-the-badge&logoColor=FB7185"/>
-
-<br/><br/>
-
-<h3>SOFTWARE & AI</h3>
-
-<img src="https://img.shields.io/badge/PYTHON-101827?style=for-the-badge&logo=python&logoColor=C4B5FD"/>
-<img src="https://img.shields.io/badge/FLASK-101827?style=for-the-badge&logo=flask&logoColor=C4B5FD"/>
-<img src="https://img.shields.io/badge/SQLITE-101827?style=for-the-badge&logo=sqlite&logoColor=C4B5FD"/>
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-101827?style=for-the-badge&logoColor=C4B5FD"/>
-
-</td>
-</tr>
-</table>
-
-<!-- BLUE NEON DIVIDER -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:67E8F9,100:2563EB&height=5"
-    width="100%"
-    alt="Blue neon divider"
-  />
-</p>
-
-<!-- GITHUB ACTIVITY -->
-<table align="center" width="100%">
-<tr>
-<td align="center">
-
-<h2>GITHUB ACTIVITY</h2>
-
-<sub>DEVELOPMENT · EXPERIMENTS · OPEN SOURCE</sub>
-
-<br/><br/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=ZahdanGG&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000"
-  width="430"
-  alt="GitHub Stats"
-/>
 
 <br/>
 
-<a href="https://github.com/ZahdanGG?tab=repositories">
-  <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white&color=7C3AED"/>
-</a>
+<!-- ===================================================== -->
+<!-- PANEL 01 : THE DEVELOPER                              -->
+<!-- NOTE: nanti bagian header panel ini idealnya diganti  -->
+<!-- dengan SVG custom neon intense agar glow lebih keren  -->
+<!-- ===================================================== -->
 
-</td>
-</tr>
-</table>
-
-<!-- PURPLE NEON DIVIDER -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:C4B5FD,100:7C3AED&height=5"
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:050609,20:080f1f,55:287bff,80:101c36,100:050609&height=120&section=header&text=01%20%2F%20THE%20DEVELOPER&fontColor=f5f7fa&fontSize=28&fontAlignY=42&desc=A%20LITTLE%20CONTEXT&descColor=98a4b8&descAlignY=70&animation=fadeIn"
     width="100%"
-    alt="Purple neon divider"
+    alt="The Developer panel"
   />
 </p>
+
+<div align="center">
+
+# ZAHDAN
+
+### `CREATIVE DEVELOPER / VIBE CODER`
+
+**DESIGN × CODE × INTERACTION**
+
+<br/>
+
+Exploring the space between **design, code, and interaction**.  
+I like turning ideas into thoughtful interfaces and tools that work.
+
+<br/>
+
+<a href="https://github.com/ZahdanGG">
+  <img src="https://img.shields.io/badge/GitHub-050609?style=for-the-badge&logo=github&logoColor=f5f7fa&labelColor=101c36&color=287bff" />
+</a>
+
+<a href="https://zahdan-cinematic-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-050609?style=for-the-badge&logo=vercel&logoColor=f5f7fa&labelColor=101c36&color=287bff" />
+</a>
+
+<a href="mailto:anjarip2@gmail.com">
+  <img src="https://img.shields.io/badge/Email-050609?style=for-the-badge&logo=gmail&logoColor=f5f7fa&labelColor=101c36&color=287bff" />
+</a>
+
+</div>
+
+<br/>
+
+<!-- ===================================================== -->
+<!-- PANEL 02 : ARSENAL                                    -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:050609,20:080f1f,55:287bff,80:101c36,100:050609&height=120&section=header&text=02%20%2F%20ARSENAL&fontColor=f5f7fa&fontSize=28&fontAlignY=42&desc=TOOLS%2C%20NOT%20TROPHIES&descColor=98a4b8&descAlignY=70&animation=fadeIn"
+    width="100%"
+    alt="Arsenal panel"
+  />
+</p>
+
+<div align="center">
+
+### SOFTWARE & EXPLORATION
+
+<img src="https://img.shields.io/badge/Python-050609?style=for-the-badge&logo=python&logoColor=f5f7fa&labelColor=101c36&color=287bff" />
+<img src="https://img.shields.io/badge/Flask-050609?style=for-the-badge&logo=flask&logoColor=f5f7fa&labelColor=101c36&color=287bff" />
+<img src="https://img.shields.io/badge/GitHub-050609?style=for-the-badge&logo=github&logoColor=f5f7fa&labelColor=101c36&color=287bff" />
+
+<br/><br/>
+
+### BACKEND DEVELOPMENT
+
+<img src="https://img.shields.io/badge/Laravel-050609?style=for-the-badge&logo=laravel&logoColor=f5f7fa&labelColor=101c36&color=287bff" />
+<img src="https://img.shields.io/badge/SQLite-050609?style=for-the-badge&logo=sqlite&logoColor=f5f7fa&labelColor=101c36&color=287bff" />
+
+<br/><br/>
+
+### HARDWARE & EMBEDDED
+
+<img src="https://img.shields.io/badge/C++-050609?style=for-the-badge&logo=cplusplus&logoColor=f5f7fa&labelColor=101c36&color=287bff" />
+
+<br/><br/>
+
+### THIS PORTFOLIO IS BUILT WITH
+
+<img src="https://img.shields.io/badge/Next.js-050609?style=for-the-badge&logo=nextdotjs&logoColor=f5f7fa&labelColor=101c36&color=287bff" />
+<img src="https://img.shields.io/badge/TypeScript-050609?style=for-the-badge&logo=typescript&logoColor=f5f7fa&labelColor=101c36&color=287bff" />
+<img src="https://img.shields.io/badge/GSAP-050609?style=for-the-badge&logo=greensock&logoColor=f5f7fa&labelColor=101c36&color=287bff" />
+<img src="https://img.shields.io/badge/WebGL-050609?style=for-the-badge&logo=webgl&logoColor=f5f7fa&labelColor=101c36&color=287bff" />
+<img src="https://img.shields.io/badge/Vercel-050609?style=for-the-badge&logo=vercel&logoColor=f5f7fa&labelColor=101c36&color=287bff" />
+
+</div>
+
+<br/>
+
+<!-- ===================================================== -->
+<!-- PANEL 03 : PROJECTS                                   -->
+<!-- ===================================================== -->
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:050609,20:080f1f,55:287bff,80:101c36,100:050609&height=120&section=header&text=03%20%2F%20PROJECTS&fontColor=f5f7fa&fontSize=28&fontAlignY=42&desc=SELECTED%20WORK&descColor=98a4b8&descAlignY=70&animation=fadeIn"
+    width="100%"
+    alt="Projects panel"
+  />
+</p>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+### `01` Cinematic Portfolio
+**Category:** Web Experience  
+**Year:** 2026  
+
+An Ayanokōji-first introduction, a light-slice portrait reveal, and a continuous transition into this interactive portfolio.
+
+**Stack:** `Next.js` `TypeScript` `GSAP` `WebGL`
+
+<a href="https://zahdan-cinematic-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Preview-050609?style=for-the-badge&logo=vercel&logoColor=f5f7fa&labelColor=101c36&color=287bff" />
+</a>
+
+    </td>
+    <td width="50%" valign="top">
+
+### `02` Hero & Stack Lab
+**Category:** Data Structures · Coursework  
+**Year:** 2025  
+
+A Laravel project with a hero list, an item resource, and a Livewire stack interface for adding and removing values.
+
+**Stack:** `Laravel` `Livewire` `Filament` `Docker`
+
+<a href="https://github.com/ZahdanGG/ProjectAkhir_StukDat">
+  <img src="https://img.shields.io/badge/View_Repository-050609?style=for-the-badge&logo=github&logoColor=f5f7fa&labelColor=101c36&color=287bff" />
+</a>
+
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/ZahdanGG?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_MORE_REPOSITORIES-050609?style=for-the-badge&logo=github&logoColor=f5f7fa&labelColor=101c36&color=287bff" />
+</a>
+
+</div>
+
+<br/>
 
 <!-- FOOTER -->
 <p align="center">
-
-<strong>THANKS FOR VISITING</strong>
-
-<br/>
-
-<sub>Designed with curiosity. Built with purpose.</sub>
-
-<br/><br/>
-
-<a href="https://github.com/ZahdanGG">
-  <img src="https://img.shields.io/badge/ZAHDANGG-0B1020?style=for-the-badge&logo=github&logoColor=white&color=5865F2"/>
-</a>
-
+  <sub>CRAFTED WITH INTENTION.</sub>
 </p>
