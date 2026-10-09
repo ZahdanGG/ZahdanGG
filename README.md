@@ -1,100 +1,169 @@
-<!-- Anime Banner -->
+
+<!-- ========================================= -->
+<!--        ZAHDAN GITHUB PROFILE              -->
+<!--        DARK NEON / LIGHTSABER EDITION     -->
+<!-- ========================================= -->
+
+<!-- MAIN BANNER -->
 <p align="center">
-  <img src="https://github.com/ZahdanGG/ZahdanGG/blob/f1e615ebe7916e18dfe887dd6af63b981bdfa8d8/WaguriBanner.png" width="100%" height="170"/>
+  <img
+    src="https://raw.githubusercontent.com/ZahdanGG/ZahdanGG/main/WaguriBanner.png"
+    alt="Zahdan Banner"
+    width="100%"
+  />
 </p>
 
-<div align="center">
+<!-- NEON DIVIDER -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:5865F2,50:9DE8FF,100:5865F2&height=5"
+    width="100%"
+    alt="Neon divider"
+  />
+</p>
 
-<br>
+<!-- INTRO PANEL -->
+<table align="center" width="100%">
+<tr>
+<td align="center">
 
-# <span style="color:#ffffff;">ZahdanGG</span>
+<h1>Z A H D A N</h1>
 
-### <span style="color:#b9f2ff;">HARDWARE · FIRMWARE · ALGORITHMIC TRADING</span>
+<strong>HARDWARE · FIRMWARE · ALGORITHMIC TRADING</strong>
 
----
+<br/><br/>
 
-## 🟠 2ND — NTE ROBOTICS
+<code>Developer</code>
+<code>Creative Technologist</code>
+<code>Automation Enthusiast</code>
 
-<br>
+<br/><br/>
 
-<a href="#">
-<img src="https://img.shields.io/badge/🟢%20OPEN%20TO%20WORK-111111?style=for-the-badge&labelColor=111111&color=ff9d2e">
+Exploring the intersection of hardware, software,
+automation, and intelligent systems.
+
+<br/><br/>
+
+<a href="https://github.com/ZahdanGG?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white&labelColor=111827&color=5865F2"/>
 </a>
 
-<br><br>
+<a href="https://github.com/ZahdanGG">
+  <img src="https://img.shields.io/badge/OPEN_TO_WORK-111827?style=for-the-badge&logoColor=white&labelColor=111827&color=22C55E"/>
+</a>
 
-</div>
+</td>
+</tr>
+</table>
 
----
-
-<div align="center">
-
-# 🟠 ARSENAL
-
-<br>
-
-### <span style="color:#4f8cff;">HARDWARE & EMBEDDED</span>
-
-<br>
-
-<img src="https://img.shields.io/badge/C-05070d?style=for-the-badge&logo=c&logoColor=4f8cff">
-<img src="https://img.shields.io/badge/C++-05070d?style=for-the-badge&logo=cplusplus&logoColor=4f8cff">
-<img src="https://img.shields.io/badge/Arduino-05070d?style=for-the-badge&logo=arduino&logoColor=4f8cff">
-<img src="https://img.shields.io/badge/MicroPython-05070d?style=for-the-badge&logo=micropython&logoColor=4f8cff">
-<img src="https://img.shields.io/badge/ROS-05070d?style=for-the-badge&logo=ros&logoColor=4f8cff">
-<img src="https://img.shields.io/badge/TinyML-05070d?style=for-the-badge&logo=tensorflow&logoColor=4f8cff">
-<img src="https://img.shields.io/badge/PCB%20Design-05070d?style=for-the-badge&logo=kicad&logoColor=4f8cff">
-
-<br><br>
-
-### <span style="color:#ff4545;">TRADING & QUANT</span>
-
-<br>
-
-<img src="https://img.shields.io/badge/Pine%20Script-05070d?style=for-the-badge&logo=tradingview&logoColor=ff4545">
-<img src="https://img.shields.io/badge/MQL4%2F5-05070d?style=for-the-badge&logoColor=ff4545">
-<img src="https://img.shields.io/badge/Algorithmic%20Trading-05070d?style=for-the-badge&logoColor=ff4545">
-<img src="https://img.shields.io/badge/Quantitative%20Analysis-05070d?style=for-the-badge&logoColor=ff4545">
-<img src="https://img.shields.io/badge/Crypto%20Bots-05070d?style=for-the-badge&logo=bitcoin&logoColor=ff4545">
-
-<br><br>
-
-### <span style="color:#b84dff;">SOFTWARE & AI</span>
-
-<br>
-
-<img src="https://img.shields.io/badge/Python-05070d?style=for-the-badge&logo=python&logoColor=b84dff">
-<img src="https://img.shields.io/badge/Flask-05070d?style=for-the-badge&logo=flask&logoColor=b84dff">
-<img src="https://img.shields.io/badge/SQLite-05070d?style=for-the-badge&logo=sqlite&logoColor=b84dff">
-<img src="https://img.shields.io/badge/Machine%20Learning-05070d?style=for-the-badge&logo=tensorflow&logoColor=b84dff">
-
-</div>
-
-<br>
-
----
-
-<div align="center">
-
-</div>
-
-## 📊 GitHub Stats
+<!-- PURPLE NEON DIVIDER -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZahdanGG&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZahdanGG&theme=tokyonight" height="160"/>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:C4B5FD,100:7C3AED&height=5"
+    width="100%"
+    alt="Purple neon divider"
+  />
 </p>
 
----
+<!-- ARSENAL PANEL -->
+<table align="center" width="100%">
+<tr>
+<td align="center">
 
-## 🎬 Anime Quote
-> *"If you don't take risks, you can't create a future."*  
-> — Luffy, *One Piece*
+<h2>⚡ ARSENAL</h2>
 
----
+<sub>TECHNOLOGIES & EXPERTISE</sub>
 
-<!-- Footer -->
+<br/><br/>
+
+<h3>HARDWARE & EMBEDDED</h3>
+
+<img src="https://img.shields.io/badge/C-101827?style=for-the-badge&logo=c&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/C++-101827?style=for-the-badge&logo=cplusplus&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/ARDUINO-101827?style=for-the-badge&logo=arduino&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/MICROPYTHON-101827?style=for-the-badge&logo=micropython&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/ROS-101827?style=for-the-badge&logo=ros&logoColor=60A5FA"/>
+
+<br/><br/>
+
+<h3>TRADING & QUANT</h3>
+
+<img src="https://img.shields.io/badge/PINE_SCRIPT-101827?style=for-the-badge&logo=tradingview&logoColor=FB7185"/>
+<img src="https://img.shields.io/badge/MQL4%2F5-101827?style=for-the-badge&logoColor=FB7185"/>
+<img src="https://img.shields.io/badge/ALGORITHMIC_TRADING-101827?style=for-the-badge&logoColor=FB7185"/>
+<img src="https://img.shields.io/badge/QUANT_ANALYSIS-101827?style=for-the-badge&logoColor=FB7185"/>
+
+<br/><br/>
+
+<h3>SOFTWARE & AI</h3>
+
+<img src="https://img.shields.io/badge/PYTHON-101827?style=for-the-badge&logo=python&logoColor=C4B5FD"/>
+<img src="https://img.shields.io/badge/FLASK-101827?style=for-the-badge&logo=flask&logoColor=C4B5FD"/>
+<img src="https://img.shields.io/badge/SQLITE-101827?style=for-the-badge&logo=sqlite&logoColor=C4B5FD"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-101827?style=for-the-badge&logoColor=C4B5FD"/>
+
+</td>
+</tr>
+</table>
+
+<!-- BLUE NEON DIVIDER -->
 <p align="center">
-  <img src="https://i.waifu.pics/e4RdrMK.gif" width="200"/>
-  <br/>
-  <i>Thanks for visiting my profile! Let's build cool stuff together 🌸</i>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:67E8F9,100:2563EB&height=5"
+    width="100%"
+    alt="Blue neon divider"
+  />
+</p>
+
+<!-- GITHUB ACTIVITY -->
+<table align="center" width="100%">
+<tr>
+<td align="center">
+
+<h2>GITHUB ACTIVITY</h2>
+
+<sub>DEVELOPMENT · EXPERIMENTS · OPEN SOURCE</sub>
+
+<br/><br/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=ZahdanGG&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000"
+  width="430"
+  alt="GitHub Stats"
+/>
+
+<br/>
+
+<a href="https://github.com/ZahdanGG?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=white&color=7C3AED"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<!-- PURPLE NEON DIVIDER -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,50:C4B5FD,100:7C3AED&height=5"
+    width="100%"
+    alt="Purple neon divider"
+  />
+</p>
+
+<!-- FOOTER -->
+<p align="center">
+
+<strong>THANKS FOR VISITING</strong>
+
+<br/>
+
+<sub>Designed with curiosity. Built with purpose.</sub>
+
+<br/><br/>
+
+<a href="https://github.com/ZahdanGG">
+  <img src="https://img.shields.io/badge/ZAHDANGG-0B1020?style=for-the-badge&logo=github&logoColor=white&color=5865F2"/>
+</a>
+
 </p>
