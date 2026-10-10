@@ -1,7 +1,7 @@
-![ZAHDAN banner](./assets/banner/WaguriBanner.gif)
-![The Developer](./assets/raster/developer.webp)
-![Arsenal](./assets/raster/arsenal.webp)
-![Project](./assets/raster/project.webp)
+<img src="./assets/banner/WaguriBanner.gif" alt="ZAHDAN animated banner" width="100%" />
+<img src="./assets/raster/developer.webp" alt="The Developer" width="100%" />
+<img src="./assets/raster/arsenal.webp" alt="Arsenal" width="100%" />
+<img src="./assets/raster/project.webp" alt="Project" width="100%" />
 
 | CINEMATIC PORTFOLIO | HERO & STACK LAB |
 | :--- | :--- |
