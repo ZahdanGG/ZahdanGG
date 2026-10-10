@@ -1,20 +1,7 @@
-[![ZAHDAN — cinematic developer banner](./assets/banner/WaguriBanner.png)](https://zahdan-cinematic-portfolio.vercel.app/)
-
-<div align="center">
-
-**CREATIVE DEVELOPER · VISUAL DESIGN · DIGITAL EXPERIENCES**
-
-[**✦ Explore Portfolio**](https://zahdan-cinematic-portfolio.vercel.app/) &nbsp; · &nbsp; [**↗ GitHub Projects**](https://github.com/ZahdanGG?tab=repositories)
-
-</div>
-
----
-
-![The Developer — M Anjari Putra L.](./assets/raster/developer.webp)
-
-![Arsenal — Tools & Technologies](./assets/raster/arsenal.webp)
-
-![Project — Selected Work](./assets/raster/project.webp)
+![ZAHDAN banner](./assets/banner/WaguriBanner.gif)
+![The Developer](./assets/raster/developer.webp)
+![Arsenal](./assets/raster/arsenal.webp)
+![Project](./assets/raster/project.webp)
 
 | CINEMATIC PORTFOLIO | HERO & STACK LAB |
 | :--- | :--- |
